@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omidcode&label=Profile%20views&color=0e75b6&style=flat" alt="omidcode" /> </p>
 
-- 🔭 I’m currently working on **personnal projects**
+- 🔭 I’m currently working on **personnal project**
 
 - 🌱 I’m currently learning **Tailwind CSS**
 
