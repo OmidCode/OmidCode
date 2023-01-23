@@ -2,7 +2,7 @@
 <h3 align="center">A Frontend developer from Paris, France</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-- 🔭 I’m currently working on **personal project**
+- 🔭 I’m currently working on **TheOdinProject**
 
 - 📫 How to reach me **linkedin or my portfolio contact form**
 
